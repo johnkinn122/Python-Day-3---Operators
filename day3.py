@@ -30,7 +30,7 @@
           5 1 5 25 125
 
 """
-"""
+
 #1. Declare your age as integer variable
 age = 69
 
@@ -156,7 +156,7 @@ else:
 
 #19. Check if type of '10' is equal to type of 10
 print(type("10") is type(10))
-"""
+
 #21. Write a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
 hours = float(input("Enter no. of hours:"))
 rate_per_hour = float(input("Enter rate per hour:"))
